@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root_group>
+	<group display_name="All Contacts" />
+	<group display_name="Blocklist" />
+	<group display_name="NJS" ring="Auto" />
+</root_group>
+<root_contact>
+	<contact display_name="Alexah Little" office_number="0478360841" mobile_number="0436635426" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" eyepea_contact_id="" />
+	<contact display_name="Geoffrey Little" office_number="" mobile_number="0412123919" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" eyepea_contact_id="" />
+	<contact display_name="Jenny Swadling" office_number="" mobile_number="0427022279" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" eyepea_contact_id="" />
+	<contact display_name="Jess Carr" office_number="" mobile_number="0409484985" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" eyepea_contact_id="" />
+	<contact display_name="Lachlan Little" office_number="" mobile_number="0413025121" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" eyepea_contact_id="" />
+	<contact display_name="Margaret Tindall" office_number="" mobile_number="0746360110" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" eyepea_contact_id="" />
+	<contact display_name="Matthew Little" office_number="003" mobile_number="0481982933" other_number="0400113381" line="-1" ring="Auto" group_id_name="All Contacts" eyepea_contact_id="" />
+	<contact display_name="Nicholas Swadling" office_number="" mobile_number="0427106353" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" eyepea_contact_id="" />
+	<contact display_name="Rebekah Little" office_number="" mobile_number="0408775232" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" eyepea_contact_id="" />
+	<contact display_name="Ryan Carr" office_number="" mobile_number="0412494283" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" eyepea_contact_id="" />
+</root_contact>
